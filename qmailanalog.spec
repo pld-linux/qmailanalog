@@ -52,7 +52,7 @@ echo "%{__cc} %{rpmldflags}" > conf-ld
 %{__make}
 
 %{__make} -C tai64nfrac-1.3 \
-	CC=%{__cc} \
+	CC="%{__cc}" \
 	CFLAGS="%{rpmcflags}" \
 	LDFLAGS="%{rpmldflags}" \
 
