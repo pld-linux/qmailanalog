@@ -1,5 +1,5 @@
 Summary:	Collection of tools to help you analyze qmail's activity record
-Summary(pl.UTF-8):   Zestaw narzędzi pomagających w analizie rekordu aktywności qmaila
+Summary(pl.UTF-8):	Zestaw narzędzi pomagających w analizie rekordu aktywności qmaila
 Name:		qmailanalog
 Version:	0.70
 Release:	0.5
