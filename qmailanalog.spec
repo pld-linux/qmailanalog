@@ -42,7 +42,7 @@ ułamkową) - a w przypadku innych danych zwróci te same dane.
 
 %prep
 %setup -q -a1
-%patch0 -p0
+%patch -P0 -p0
 
 %build
 echo "%{_prefix}" > conf-home
